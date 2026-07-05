@@ -4,11 +4,11 @@ A lightweight Manifest V3 browser extension that puts a curated library of secur
 
 ## Features
 
-- **12 vulnerability categories** — XSS, SQLi, OS command injection, SSTI, LFI / path traversal, SSRF, XXE, open redirect, NoSQL injection, CRLF, LDAP injection, and injectable HTTP headers.
+- **12 vulnerability categories** - XSS, SQLi, OS command injection, SSTI, LFI / path traversal, SSRF, XXE, open redirect, NoSQL injection, CRLF, LDAP injection, and injectable HTTP headers.
 - **~100 payloads**, each annotated with a short note on what it does.
 - **Live search** across every payload and note.
 - **One-click copy** to clipboard.
-- **Offline & private** — no network calls, no telemetry, no tracking permissions. All data ships in a single readable `payloads.js` you fully control.
+- **Offline & private** - no network calls, no telemetry, no tracking permissions. All data ships in a single readable `payloads.js` you fully control.
 
 ## Install (unpacked)
 
