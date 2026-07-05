@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "VenomVault",
+  "version": "1.0.0",
+  "description": "Quick access to common security testing payloads for authorized penetration testing and security research.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "VenomVault"
+  },
+  "permissions": ["clipboardWrite"]
+}
